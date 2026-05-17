@@ -1,8 +1,6 @@
 # 📊 Amazon Sales Analytics Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 > An interactive Power BI dashboard that transforms raw Amazon sales data into meaningful, decision-ready insights — giving stakeholders a unified view of business performance across channels, regions, products, and time.
 
