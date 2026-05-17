@@ -65,28 +65,13 @@ This dashboard is built for a broad internal audience:
 - **Executives** — Access high-level KPIs at a glance
 - **Decision-Makers** — Leverage insights for strategic planning
 
-### 1️⃣ Full Dashboard Overview
+<img width="1709" height="746" alt="Screenshot 2026-05-17 150601" src="https://github.com/user-attachments/assets/9f944522-b1a4-4ee5-afb4-f3ac8012a644" />
 
-![Amazon Sales Analytics - Full Dashboard](Screenshot 2026-05-17 150601.png)
+<img width="1044" height="553" alt="Screenshot 2026-05-17 150658" src="https://github.com/user-attachments/assets/b5064ad3-4f3f-42f6-9ebb-5c069c9c4ef4" />
 
----
+<img width="1044" height="564" alt="Screenshot 2026-05-17 150707" src="https://github.com/user-attachments/assets/d50ffaf7-43d3-494b-a000-76786ed61ab9" />
 
-### 2️⃣ Introduction
-
-![Introduction](Screenshot 2026-05-17 150658.png)
-
-
----
-
-### 3️⃣ Details of Data
-
-![Details of Data](Screenshot 2026-05-17 150707.png)
-
-
-
-### 4️⃣ Main KPIs
-
-![Main KPIs](Screenshot 2026-05-17 150716.png)
+<img width="1041" height="547" alt="Screenshot 2026-05-17 150716" src="https://github.com/user-attachments/assets/91e540ed-97be-479e-bbeb-59f412ca08cc" />
 
 
 
