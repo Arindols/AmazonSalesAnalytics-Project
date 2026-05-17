@@ -65,6 +65,8 @@ This dashboard is built for a broad internal audience:
 - **Executives** — Access high-level KPIs at a glance
 - **Decision-Makers** — Leverage insights for strategic planning
 
+## Overall report & dashboard glimpse:
+
 <img width="1709" height="746" alt="Screenshot 2026-05-17 150601" src="https://github.com/user-attachments/assets/9f944522-b1a4-4ee5-afb4-f3ac8012a644" />
 
 <img width="1044" height="553" alt="Screenshot 2026-05-17 150658" src="https://github.com/user-attachments/assets/b5064ad3-4f3f-42f6-9ebb-5c069c9c4ef4" />
